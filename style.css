@@ -148,7 +148,20 @@ body {
   }
   .praa{
     font-size: 1.5rem !important;
-
+  }
+  .bot{
+    width: 110px !important;
+  }
+  .menu-links{
+    margin-bottom: 1rem;
   }
   
+}
+@media (min-width: 769px) and (max-width: 1024px){
+  .bot{
+    width: 130px !important;
+  }
+  .ms-5{
+    margin-left: 0rem !important;
+  }
 }
