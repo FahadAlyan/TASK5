@@ -177,6 +177,21 @@ body {
     margin-right: 1rem !important;
     margin-top: 2rem !important;
   }
+  .ppp{
+    padding-right: 3rem;
+  }
+}
+@media (min-width: 768px)and (max-width : 769px){
+    .nnn{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    padding-left: 8rem;
+  }
+
+
+  
 }
   
 @media (min-width: 769px) and (max-width: 1024px){
@@ -186,7 +201,26 @@ body {
   .ms-5{
     margin-left: 0rem !important;
   }
+  .nnn{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    padding-left: 8rem;
+  }
+  .kkk{
+    display: flex;
+    margin-top: 2rem;
+  }
+  .okk{
+    padding-left: 2rem;
+  }
+  .lll{
+    margin-top: 2rem;
+  }
+
+  }
  
   
   
-}
+
