@@ -88,13 +88,14 @@ body {
 
 .learn-more {
   font-weight: bold;
-  font-size: 1.375rem;
+  font-size: 1.3rem;
   padding-bottom: 3.125rem;
   margin-top: 1.25rem;
 }
 
 .red {
   color: var(--primary-red);
+  font-size: 1.3rem;
 }
 .menu-links div {
   text-align: center;
@@ -113,7 +114,7 @@ body {
 .red {
   color: var(--primary-red);
   font-weight: 700;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 .Middle {
@@ -146,6 +147,13 @@ body {
   .fsss{
     font-size: 1.5rem !important;
   }
+  .ab{
+     width: 0 !important;
+   
+  }
+  .cd{
+    width: 0 !important;
+  }
   .praa{
     font-size: 1.5rem !important;
   }
@@ -155,8 +163,22 @@ body {
   .menu-links{
     margin-bottom: 1rem;
   }
-  
+    .ms-5{
+    margin-left: 0rem !important;
+  }
+  .mn{
+    padding-right: 3.5rem !important;
+  }
+  .bot{
+    display: flex !important;
+    flex-direction: row !important;
+  }
+  .bott{
+    margin-right: 1rem !important;
+    margin-top: 2rem !important;
+  }
 }
+  
 @media (min-width: 769px) and (max-width: 1024px){
   .bot{
     width: 130px !important;
@@ -164,4 +186,7 @@ body {
   .ms-5{
     margin-left: 0rem !important;
   }
+ 
+  
+  
 }
